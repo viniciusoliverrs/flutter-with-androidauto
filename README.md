@@ -24,7 +24,7 @@ Para configurar e executar este projeto, siga as instruções abaixo:
 
 ## Artigo no Medium
 
-Para uma explicação detalhada sobre como este projeto foi desenvolvido e como integrar o Flutter com o Android Auto, confira o artigo no Medium [aqui](link_para_o_artigo_no_Medium).
+Para uma explicação detalhada sobre como este projeto foi desenvolvido e como integrar o Flutter com o Android Auto, confira o artigo no Medium [https://medium.com/brasilflutter/implementando-android-auto-no-seu-projeto-flutter-2966ed82eb59](link_para_o_artigo_no_Medium).
 
 ## Contribuindo
 
